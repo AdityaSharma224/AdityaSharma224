@@ -1,2 +1,1 @@
-# Aditya_ReadMe
-my read me file
+👋  Hey there! I'm Manuj

@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Hey there! I'm Aditya
 
 ### 💫 About Me
-👨‍💻  I'm currently working at GeeksforGeeks as an MTS Intern<br>🎓  I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯  On a track to learning more about Web Development.<br> ♥️   In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
+👨‍💻  I'm currently working at Contlo as a Sofrware Development Intern <br>🎓  I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯  On a track to learning more about Web Development.<br> ♥️   In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
 
 
 ### 💻 Tech Stack

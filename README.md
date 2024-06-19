@@ -2,7 +2,7 @@
 ## 🙋‍♂️ Hey there! I'm Aditya
 
 ### 💫 About Me
-👨‍💻  I'm currently working at CAST as a Software Development Emgineer<br>
+👨‍💻  I'm currently working at CAST as a Software Development Engineer<br>
 👨‍💻  Ex- Contlo and GeeksforGeeks <br>🎓  I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯  On a track to learning more about Web Development.<br> ♥️   In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
 
 
@@ -24,9 +24,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
 ### ⚙️  GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=AdityaSharma224&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma224&theme=city_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma224&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AdityaSharma224&theme=city_light&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma224&theme=city_light&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma224&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 

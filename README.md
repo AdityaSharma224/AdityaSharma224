@@ -1,6 +1,13 @@
 # 💫 About Me:
-👨‍💻 I'm currently working at CAST as a Software Development Engineer<br>👨‍💻 Ex- Contlo and GeeksforGeeks<br>🎓 I'm currently doing a bachelor's in Computer Science at Chitkara University, Punjab.<br>🎯 On a track to learning more about Web Development.<br>♥️ In my free time I like to work on projects and open challenges.<br>🚀 -> I like these !!!!
+- 👋 Hey, I’m Aditya.
+- 🚀 SDE Frontend @CAST.
+- 🎯 Passionate about crafting scalable and performant user interfaces.
+- 🛠️ Currently deep-diving into JavaScript, React, and TypeScript.
+- 📬 Feel free to connect or reach out: adityasharmawork@gmail.com.
+- 🔗 Link to my portfolio: [Ad1tya.me](https://ad1tya.netlify.app)
 
+
+  ![snake gif](https://github.com/Akshaay9/Akshaay9/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasharma13064) 

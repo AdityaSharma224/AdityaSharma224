@@ -6,9 +6,6 @@
 - 📬 Feel free to connect or reach out: adityasharmawork@gmail.com.
 - 🔗 Link to my portfolio: [Ad1tya.me](https://ad1tya.netlify.app)
 
-
-  ![snake gif](https://github.com/Akshaay9/Akshaay9/blob/output/github-snake-dark.svg)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasharma13064) 
 

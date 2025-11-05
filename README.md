@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hey, I’m Aditya.
-- 🚀 SDE Frontend @CAST.
+- 🚀 SDE-1 Frontend @Zomato.
 - 🎯 Passionate about crafting scalable and performant user interfaces.
 - 🛠️ Currently deep-diving into JavaScript, React, and TypeScript.
 - 📬 Feel free to connect or reach out: adityasharmawork@gmail.com.
